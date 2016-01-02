@@ -1,4 +1,0 @@
-class CreateVideos < ActiveRecord::Migration
-  def change
-  end
-end
